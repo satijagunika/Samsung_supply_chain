@@ -1,6 +1,6 @@
 # Samsung Supply Chain Dashboard
 
-This project presents an end-to-end Supply Chain & Logistics dashboard built using Power BI, focusing on key business stages — Supplier, Inventory, Shipment, and Customer.
+This project presents an end-to-end Supply Chain & Logistics dashboard built using Power BI, focusing on key business stages - Supplier, Inventory, Shipment, and Customer.
 
 ## Overview
 - The dashboard provides a consolidated view of operational performance by tracking key metrics such as revenue, profit, inventory value, shipment quantity, and delivery performance. It is designed to highlight patterns, identify potential delays, and support better decision-making across the supply chain.
